@@ -13,12 +13,12 @@ where you specify the **name** of the node.
 
     # Example configuration entry
     esphome:
-        name: livingroom
-        comment: Living room ESP32 controller
-        area: Living Room
+      name: livingroom
+      comment: Living room ESP32 controller
+      area: Living Room
 
     esp32:
-        board: nodemcu-32s
+      board: nodemcu-32s
 
 .. _esphome-configuration_variables:
 
